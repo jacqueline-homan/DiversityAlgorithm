@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/DiversityAlgorithm/DiversityAlgorithm/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/DiversityAlgorithm/DiversityAlgorithm/bin/Debug/DiversityAlgorithm.exe.mdb
+/home/jacqueline/Projects/DiversityAlgorithm/DiversityAlgorithm/bin/Debug/DiversityAlgorithm.exe
+/home/jacqueline/Projects/DiversityAlgorithm/DiversityAlgorithm/obj/x86/Debug/DiversityAlgorithm.exe
+/home/jacqueline/Projects/DiversityAlgorithm/DiversityAlgorithm/obj/x86/Debug/DiversityAlgorithm.exe.mdb
