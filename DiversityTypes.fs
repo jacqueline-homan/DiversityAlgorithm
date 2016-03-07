@@ -39,7 +39,7 @@ module Types =
         | DevBootcamp
         | SelfTaught
         | OnlineTutorials
-        | PersonalMentorOTJ
+        | OTJPersonalMentor
 
     type AcademicLevel =
         | HighSchoolOrLess
@@ -49,7 +49,7 @@ module Types =
         | Masters
         | Doctorate
 
-    and DegreeType =
+    type DegreeType =
         | ComputerScience of AcademicLevel
         | OtherSTEM of AcademicLevel
         | Other of AcademicLevel

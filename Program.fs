@@ -16,5 +16,6 @@ let main argv =
     printfn "**************************************"
 
     let n = (noob())
+    let e = (education())
     0 // return an integer exit code
 

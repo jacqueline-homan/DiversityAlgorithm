@@ -28,15 +28,15 @@ module Input =
         let response = Console.ReadLine().Trim().ToUpper()
         match response with
         | "High School Diploma/GED or less" -> HighSchoolOrLess
-        | "Trade Scool" -> TradeSchool
+        | "Trade ScHool" -> TradeSchool
         | "Some College" -> SomeCollege
         | "Bachelors Degree" -> Bachelors
         | "Masters Degree" -> Masters
         | "Doctorate Degree" -> Doctorate
-        | _ -> printfn "INVALID ENTRY"
+        | _ -> printfn "%s is an INVALID ENTRY" response
                education()
 
-    and degree() =
+    let rec degree() =
         printfn "If you have a college degree, was it in Computer Science?"
         printfn "Enter 'Y' for Yes, 'N' for No: "
         let resp = Console.ReadLine().Trim()

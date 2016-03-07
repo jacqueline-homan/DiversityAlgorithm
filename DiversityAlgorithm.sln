@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "DiversityAlgorithm", "DiversityAlgorithm.fsproj", "{BEF98A6F-A941-4E01-9DCC-7F99E60C844C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF98A6F-A941-4E01-9DCC-7F99E60C844C}.Debug|x86.ActiveCfg = Debug|x86
+		{BEF98A6F-A941-4E01-9DCC-7F99E60C844C}.Debug|x86.Build.0 = Debug|x86
+		{BEF98A6F-A941-4E01-9DCC-7F99E60C844C}.Release|x86.ActiveCfg = Release|x86
+		{BEF98A6F-A941-4E01-9DCC-7F99E60C844C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
